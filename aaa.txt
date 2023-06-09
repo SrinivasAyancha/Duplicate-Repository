@@ -1,0 +1,2 @@
+DevOps is an Collection of Tools, used to Build/Automate an Application
+
