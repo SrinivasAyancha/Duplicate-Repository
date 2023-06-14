@@ -1,2 +1,3 @@
 DevOps is an Collection of Tools, used to Build/Automate an Application
+DevOps is an Culture based on working with the different types of the tools
 
